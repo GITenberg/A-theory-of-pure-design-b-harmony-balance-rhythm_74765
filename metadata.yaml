@@ -1,5 +1,8 @@
 _repo: A-theory-of-pure-design-b-harmony-balance-rhythm_74765
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74765-h/images/cover.jpg
 creator:
   author:
     agent_name: Ross, Denman Waldo
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57634
     wikipedia: https://en.wikipedia.org/wiki/Denman_Ross
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74765#A-theory-of-pure-design-b-harmony-balance-rhythm
 gutenberg_issued: '2024-11-20'
 gutenberg_type: Text
 identifiers:
